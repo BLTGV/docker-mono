@@ -1,4 +1,4 @@
 docker-mono
 ===========
 
-Docker Image based off BLTGV patched Mono
+Docker Image based off of bltgv/mono fork of mono
